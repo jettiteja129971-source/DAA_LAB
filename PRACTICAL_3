@@ -1,0 +1,7 @@
+**PRACTICAL 3**
+
+**Summary**
+The Max-Heap Sort algorithm was implemented successfully by first constructing a max heap from the given array and then repeatedly moving the largest element to the end of the array. The heap was maintained using the heapify operation. This method sorts the elements in ascending order efficiently.
+
+**Conclusion**
+Max-Heap Sort is an efficient comparison-based sorting algorithm with a time complexity of O(n log n). It does not require extra memory for another array, making it useful when memory efficiency is important. The practical implementation helped understand max heap construction, heapify, and the sorting process.
