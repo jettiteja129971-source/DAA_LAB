@@ -1,0 +1,7 @@
+**PRATICAL 2**
+
+### Summary
+This practical focused on the implementation and time analysis of Linear Search and Binary Search algorithms. Both algorithms were executed successfully and their execution times were compared. The practical demonstrated the difference in searching efficiency between sequential searching and divide-and-conquer searching.
+
+### Conclusion
+From this practical, I learned how Linear Search and Binary Search work and how their performance differs. Linear Search is simple and works on both sorted and unsorted data, while Binary Search is faster but requires the data to be sorted. This practical improved my understanding of searching algorithms and time complexity.
